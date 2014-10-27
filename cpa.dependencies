@@ -1,12 +1,12 @@
 [
   {
-    "remote": "THLG",
-    "revision": "android-msm-3.4-kk",
+    "remote": "cr3pt",
+    "revision": "android-msm-3.4-kk-exp",
     "repository": "lge-kernel-lproj",
     "target_path": "kernel/lge/msm7x27a-common"
   },
   {
-    "remote": "THLG",
+    "remote": "cr3pt",
     "revision": "cm-11.0",
     "repository": "android_device_lge_msm7x27a-common",
     "target_path": "device/lge/msm7x27a-common"
@@ -43,5 +43,10 @@
     "revision": "cm-11.0",
     "repository": "android_frameworks_webview",
     "target_path": "frameworks/webview"
+  },
+  { "remote": "github",
+    "revision": "cm-11.0",
+    "repository": "CyanogenMod/android_hardware_qcom_media-caf",
+    "target_path": "hardware/qcom/media-caf"
   }
  ]
