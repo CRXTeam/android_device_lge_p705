@@ -1,4 +1,4 @@
-android_device_lge_p700
+android_device_lge_p705
 =======================
 
-LG Optimus L7 - p700 kitkat edition
+LG Optimus L7 - p705 kitkat edition
